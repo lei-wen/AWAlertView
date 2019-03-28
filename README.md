@@ -5,3 +5,5 @@
 
 
 # AWAlertView
+
+![image](https://github.com/lei-wen/AWAlertView/blob/master/play.gif)
